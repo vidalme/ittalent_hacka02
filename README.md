@@ -1,2 +1,8 @@
 # HackCiCd
-# ittalent_hacka02
+
+### IT Talent - Hackathon 02
+
+*Membros*
+- Andre Vidal
+- Tiago Paulino
+- Sergio Gurgel
